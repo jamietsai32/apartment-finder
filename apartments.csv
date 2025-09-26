@@ -1,0 +1,59 @@
+Name,Address,Bedrooms,Bathrooms,Room Type,Rent,Distance to Campus,Amenities,LATITUDE,LONGITUDE
+Lucky Apartments,"777 University Ave, Madison, WI 53715",Studio,1,Shared Bedroom,1030,9,"Heat, Furniture, Internet, Parking",43.07324219,-89.3986969
+Lucky Apartments,"777 University Ave, Madison, WI 53715",Studio,1,Private Bedroom,2000,9,"Heat, Furniture, Internet, Parking",43.07324219,-89.3986969
+Lucky Apartments,"777 University Ave, Madison, WI 53715",1,1,Shared Bedroom,1095,9,"Heat, Furniture, Internet, Parking",43.07324219,-89.3986969
+Lucky Apartments,"777 University Ave, Madison, WI 53715",1,1,Private Bedroom,2025,9,"Heat, Furniture, Internet, Parking",43.07324219,-89.3986969
+Lucky Apartments,"777 University Ave, Madison, WI 53715",2,2,Shared Bedroom,850,9,"Heat, Furniture, Internet, Parking",43.07324219,-89.3986969
+Lucky Apartments,"777 University Ave, Madison, WI 53715",2,2,Private Bedroom,1500,9,"Heat, Furniture, Internet, Parking",43.07324219,-89.3986969
+Lucky Apartments,"777 University Ave, Madison, WI 53715",3,2,Shared Bedroom,800,9,"Heat, Furniture, Internet, Parking",43.07324219,-89.3986969
+Lucky Apartments,"777 University Ave, Madison, WI 53715",3,2,Private Bedroom,1350,9,"Heat, Furniture, Internet, Parking",43.07324219,-89.3986969
+Lucky Apartments,"777 University Ave, Madison, WI 53715",4,2,Shared Bedroom,825,9,"Heat, Furniture, Internet, Parking",43.07324219,-89.3986969
+Lucky Apartments,"777 University Ave, Madison, WI 53715",4,2,Private Bedroom,1375,9,"Heat, Furniture, Internet, Parking",43.07324219,-89.3986969
+The James,"432 W Gorham St, Madison, WI 53703",Studio,1,Private Bedroom,1750,13,"Heat, Furniture, Internet, Parking, Cable TV, Washer/Dryer",43.0736457,-89.3944267
+The James,"432 W Gorham St, Madison, WI 53703",1,1,Private Bedroom,2100,13,"Heat, Furniture, Internet, Parking, Cable TV, Washer/Dryer",43.0736457,-89.3944267
+The James,"432 W Gorham St, Madison, WI 53703",2,1,Private Bedroom,1550,13,"Heat, Furniture, Internet, Parking, Cable TV, Washer/Dryer",43.0736457,-89.3944267
+The James,"432 W Gorham St, Madison, WI 53703",2,2,Private Bedroom,1600,13,"Heat, Furniture, Internet, Parking, Cable TV, Washer/Dryer",43.0736457,-89.3944267
+The James,"432 W Gorham St, Madison, WI 53703",2,2,Shared Bedroom,950,13,"Heat, Furniture, Internet, Parking, Cable TV, Washer/Dryer",43.0736457,-89.3944267
+The James,"432 W Gorham St, Madison, WI 53703",3,2,Private Bedroom,1400,13,"Heat, Furniture, Internet, Parking, Cable TV, Washer/Dryer",43.0736457,-89.3944267
+The James,"432 W Gorham St, Madison, WI 53703",4,2,Private Bedroom,1300,13,"Heat, Furniture, Internet, Parking, Cable TV, Washer/Dryer",43.0736457,-89.3944267
+The James,"432 W Gorham St, Madison, WI 53703",4,3,Private Bedroom,1450,13,"Heat, Furniture, Internet, Parking, Cable TV, Washer/Dryer",43.0736457,-89.3944267
+The James,"432 W Gorham St, Madison, WI 53703",4,4,Private Bedroom,1450,13,"Heat, Furniture, Internet, Parking, Cable TV, Washer/Dryer",43.0736457,-89.3944267
+The James,"432 W Gorham St, Madison, WI 53703",4,4,Shared Bedroom,1000,13,"Heat, Furniture, Internet, Parking, Cable TV, Washer/Dryer",43.0736457,-89.3944267
+The James,"432 W Gorham St, Madison, WI 53703",5,3,Private Bedroom,1400,13,"Heat, Furniture, Internet, Parking, Cable TV, Washer/Dryer",43.0736457,-89.3944267
+The James,"432 W Gorham St, Madison, WI 53703",5,4,Private Bedroom,1500,13,"Heat, Furniture, Internet, Parking, Cable TV, Washer/Dryer",43.0736457,-89.3944267
+The James,"432 W Gorham St, Madison, WI 53703",5,5,Private Bedroom,1450,13,"Heat, Furniture, Internet, Parking, Cable TV, Washer/Dryer",43.0736457,-89.3944267
+Hub Madison,"437 N Frances St, Madison, WI 53703",Studio,1,Private Bedroom,2100,12,"Heat, Furniture, Washer/Dryer",43.0743058,-89.3951284
+Hub Madison,"437 N Frances St, Madison, WI 53703",1,1,Private Bedroom,2300,12,"Heat, Furniture, Washer/Dryer",43.0743058,-89.3951284
+Hub Madison,"437 N Frances St, Madison, WI 53703",1,1,Shared Bedroom,1150,12,"Heat, Furniture, Washer/Dryer",43.0743058,-89.3951284
+Hub Madison,"437 N Frances St, Madison, WI 53703",2,2,Private Bedroom,1700,12,"Heat, Furniture, Washer/Dryer",43.0743058,-89.3951284
+Hub Madison,"437 N Frances St, Madison, WI 53703",2,2,Shared Bedroom,1130,12,"Heat, Furniture, Washer/Dryer",43.0743058,-89.3951284
+Hub Madison,"437 N Frances St, Madison, WI 53703",3,3,Private Bedroom,1700,12,"Heat, Furniture, Washer/Dryer",43.0743058,-89.3951284
+Hub Madison,"437 N Frances St, Madison, WI 53703",3,3,Shared Bedroom,1140,12,"Heat, Furniture, Washer/Dryer",43.0743058,-89.3951284
+Hub Madison,"437 N Frances St, Madison, WI 53703",3,2,Private Bedroom,1500,12,"Heat, Furniture, Washer/Dryer",43.0743058,-89.3951284
+Hub Madison,"437 N Frances St, Madison, WI 53703",3,2,Shared Bedroom,1130,12,"Heat, Furniture, Washer/Dryer",43.0743058,-89.3951284
+Hub Madison,"437 N Frances St, Madison, WI 53703",4,4,Private Bedroom,1650,12,"Heat, Furniture, Washer/Dryer",43.0743058,-89.3951284
+Hub Madison,"437 N Frances St, Madison, WI 53703",4,4,Shared Bedroom,1200,12,"Heat, Furniture, Washer/Dryer",43.0743058,-89.3951284
+Hub Madison,"437 N Frances St, Madison, WI 53703",4,3,Private Bedroom,1550,12,"Heat, Furniture, Washer/Dryer",43.0743058,-89.3951284
+Hub Madison,"437 N Frances St, Madison, WI 53703",4,3,Shared Bedroom,1260,12,"Heat, Furniture, Washer/Dryer",43.0743058,-89.3951284
+Hub Madison,"437 N Frances St, Madison, WI 53703",4,2,Private Bedroom,1530,12,"Heat, Furniture, Washer/Dryer",43.0743058,-89.3951284
+Hub Madison,"437 N Frances St, Madison, WI 53703",5,5,Private Bedroom,1500,12,"Heat, Furniture, Washer/Dryer",43.0743058,-89.3951284
+Hub Madison,"437 N Frances St, Madison, WI 53703",5,5,Shared Bedroom,1160,12,"Heat, Furniture, Washer/Dryer",43.0743058,-89.3951284
+Hub Madison,"437 N Frances St, Madison, WI 53703",5,4,Private Bedroom,1550,12,"Heat, Furniture, Washer/Dryer",43.0743058,-89.3951284
+Hub Madison,"437 N Frances St, Madison, WI 53703",5,4,Shared Bedroom,1200,12,"Heat, Furniture, Washer/Dryer",43.0743058,-89.3951284
+Hub Madison,"437 N Frances St, Madison, WI 53703",5,3,Private Bedroom,1500,12,"Heat, Furniture, Washer/Dryer",43.0743058,-89.3951284
+Atmosphere Madison,"750 Regent St, Madison, WI 53715",Studio,1,Private Bedroom,1750,15,"Furniture, Washer/Dryer, TV",43.0684006,-89.3973189
+Atmosphere Madison,"750 Regent St, Madison, WI 53715",1,1,Private Bedroom,2100,15,"Furniture, Washer/Dryer, TV",43.0684006,-89.3973189
+Atmosphere Madison,"750 Regent St, Madison, WI 53715",2,2,Private Bedroom,1600,15,"Furniture, Washer/Dryer, TV",43.0684006,-89.3973189
+Atmosphere Madison,"750 Regent St, Madison, WI 53715",3,3,Private Bedroom,1550,15,"Furniture, Washer/Dryer, TV",43.0684006,-89.3973189
+Atmosphere Madison,"750 Regent St, Madison, WI 53715",4,4,Private Bedroom,1450,15,"Furniture, Washer/Dryer, TV",43.0684006,-89.3973189
+Atmosphere Madison,"750 Regent St, Madison, WI 53715",5,5,Private Bedroom,1400,15,"Furniture, Washer/Dryer, TV",43.0684006,-89.3973189
+Chapter Madison,"832 Regent St, Madison, WI 53715",Studio,1,Private Bedroom,2250,14,"Furniture, Washer/Dryer",43.0677245,-89.400307
+Chapter Madison,"832 Regent St, Madison, WI 53715",1,1,Private Bedroom,2400,14,"Furniture, Washer/Dryer",43.0677245,-89.400307
+Chapter Madison,"832 Regent St, Madison, WI 53715",1,1,Shared Bedroom,1400,14,"Furniture, Washer/Dryer",43.0677245,-89.400307
+Chapter Madison,"832 Regent St, Madison, WI 53715",2,2,Private Bedroom,1700,14,"Furniture, Washer/Dryer",43.0677245,-89.400307
+Chapter Madison,"832 Regent St, Madison, WI 53715",2,2,Shared Bedroom,1250,14,"Furniture, Washer/Dryer",43.0677245,-89.400307
+Chapter Madison,"832 Regent St, Madison, WI 53715",3,3,Private Bedroom,1600,14,"Furniture, Washer/Dryer",43.0677245,-89.400307
+Chapter Madison,"832 Regent St, Madison, WI 53715",4,3,Private Bedroom,1450,14,"Furniture, Washer/Dryer",43.0677245,-89.400307
+Chapter Madison,"832 Regent St, Madison, WI 53715",4,4,Private Bedroom,1500,14,"Furniture, Washer/Dryer",43.0677245,-89.400307
+Chapter Madison,"832 Regent St, Madison, WI 53715",5,3,Private Bedroom,1350,14,"Furniture, Washer/Dryer",43.0677245,-89.400307
+Chapter Madison,"832 Regent St, Madison, WI 53715",5,4,Private Bedroom,1400,14,"Furniture, Washer/Dryer",43.0677245,-89.400307
